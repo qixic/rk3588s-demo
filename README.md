@@ -1,1 +1,1 @@
-这是一个rk3588s的git仓库，存放学习demo
+这是一个rk3588s的git仓库，存放学习demo cs.
